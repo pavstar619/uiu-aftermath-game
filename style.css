@@ -1,0 +1,16 @@
+body{
+    background-image:
+    linear-gradient( #f6830f00, #f6830f8e);
+}
+
+
+.hero-div{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -80%);
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+}
+
